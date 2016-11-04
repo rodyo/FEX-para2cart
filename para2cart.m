@@ -13,10 +13,7 @@ function varargout = para2cart(varargin)
 % Authors
 % .·`·.·`·.·`·.·`·.·`·.·`·.·`·.·`·.·`·.·`·.·`·.·`·.·`·.·`·.·`·.
 % Name       : Rody P.S. Oldenhuis
-% E-mail     : oldenhuis@dds.nl / oldenhuis@gmail.com
-% Affiliation: Delft University of Technology
-
-% Last edited 11/Jun/2009
+% E-mail     : oldenhuis@gmail.com
 
     % default errortrap
     narg = nargin;
